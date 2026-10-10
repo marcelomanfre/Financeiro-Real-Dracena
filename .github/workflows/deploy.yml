@@ -25,7 +25,7 @@ jobs:
           node-version: 18
           
       - name: Instalar ferramentas
-        run: npm install
+        run: npm install --legacy-peer-deps
         
       - name: Compilar o projeto (Build)
         run: npm run build
