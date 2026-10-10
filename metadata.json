@@ -1,0 +1,6 @@
+{
+  "name": "ResenhaPay - Gestão Financeira, 3º Tempo & Baixa com IA",
+  "description": "Controle financeiro para grupos e clubes: mensalidades, rateio do 3º tempo de quarta-feira, eventos anuais e baixa automática de comprovantes Pix com Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
